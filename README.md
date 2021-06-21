@@ -1,4 +1,4 @@
-### Hello, I am Atig !!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+## Hello, I am Atig !!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 
 ![Atig's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AtigPurohit&theme=react-dark&hide_border=true&area=true)
@@ -16,7 +16,7 @@
   </a>&nbsp;&nbsp;
 </table>
 
-### 🤵 About Me:
+## 🤵 About Me:
  
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.
 - 💻 I use daily **.java**, **.cpp**, **.kt** & **.py**.
@@ -27,7 +27,7 @@
 <img align="bottom" alt="GIF" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/ColorlessBitesizedKob-max-1mb.gif" width="378" height="253" />
 
 
-### 🐱My Github stats:
+## 🐱My Github stats:
 
 <a href="https://github.com/AtigPurohit">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtigPurohit&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Atig's github stats"/>
@@ -43,7 +43,7 @@ Show some ❤️ by starring some of the repositories!
 
 </div>
 
-### 😜Here's a Joke for you:
+## 😜Here's a Joke for you:
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 <br>
