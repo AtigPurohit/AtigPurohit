@@ -36,9 +36,6 @@ Show some ❤️ by starring some of the repositories!
 ### 😜Here's a Joke for you:
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=AtigPurohit" alt="devded" /> </p>
-
 ## 📫 Reach me at:
 
 <table>
@@ -51,3 +48,6 @@ Show some ❤️ by starring some of the repositories!
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </table>
+
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AtigPurohit" alt="devded" /> </p>
