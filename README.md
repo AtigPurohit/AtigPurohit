@@ -7,6 +7,8 @@
 
 🤵 About Me:
 
+<img align="right" alt="GIF" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/ColorlessBitesizedKob-max-1mb.gif" width="380" height="243" />
+
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.
 - 💻 I use daily **.java**, **.cpp**, **.kt** & **.py**.
 - 🌱 I am currently learning basics of **Machine Learning** and **Android Development**.
