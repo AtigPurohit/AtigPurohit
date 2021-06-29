@@ -19,9 +19,9 @@
 ## 🤵 About Me:
  
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.
-- 💻 I use daily **.java**, **.cpp**, **.kt** & **.py**.
+- 💻 I use daily **.java**, **.cpp** & **.py**.
 - 🌱 I am currently learning basics of **Machine Learning** and **Android Development**.
-- 💬 Ask me about Cricket, Football and Gaming
+- 💬 Ask me about Cricket, Football and Gaming.
 - ⚡ Fun fact: The Mona Lisa has no eyebrows.  
 
 <img align="bottom" alt="GIF" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/ColorlessBitesizedKob-max-1mb.gif" width="378" height="253" />
