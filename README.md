@@ -12,18 +12,21 @@
 
 <img align="bottom" alt="GIF" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/ColorlessBitesizedKob-max-1mb.gif" width="378" height="253" />
 
- ## 📫 Reach me at:
-
-<table>
-  <tr>
-    <a href="https://www.linkedin.com/in/atig-purohit-a83233183/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
-   <td><a href="mailto:itsthechamp0074@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></td>
-  <a href="https://www.instagram.com/x.___mysterious___.x/">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-</table>
+<br>
+<p align="center">
+      <img src="https://github.com/anubhab-code/anubhab-code/blob/main/c-programming.svg" alt="c" width="65" height="65"/> 
+      <img src="https://github.com/anubhab-code/anubhab-code/blob/main/c.svg" alt="cpp" width="60" height="60"/> 
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="85" height="70"/> 
+      <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/android/android-icon.svg" alt="android" width="55" height="55"/>
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="IPYNB" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="55" height="55"/> 
+      <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="mysql" width="110" height="75"/> 
+</p>
+<br>
 
 ## 🐱My Github stats:
 
@@ -39,13 +42,30 @@
 </p>
  <br>
  
- [![Atig's github activity graph](https://activity-graph.herokuapp.com/graph?username=AtigPurohit&theme=react-dark&hide_border=true&area=true)
+ ![Atig's github activity graph](https://activity-graph.herokuapp.com/graph?username=AtigPurohit&theme=react-dark&hide_border=true&area=true)
 
 <br>
 
-### Show some ❤️ by starring some of the repositories!
-
 </div>
+
+<br>
+
+ ## 📫 Reach me at:
+
+<table>
+  <tr>
+    <a href="https://www.linkedin.com/in/atig-purohit-a83233183/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+   <td><a href="mailto:itsthechamp0074@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a></td>
+  <a href="https://www.instagram.com/x.___mysterious___.x/">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</table>
+<br>
+
+### <p align="center"> Show some ❤️ by starring some of the repositories! </p>
+<br>
 
 ## 😜Here's a Joke for you:
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
