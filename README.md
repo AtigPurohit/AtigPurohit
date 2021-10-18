@@ -2,6 +2,8 @@
 ###   <p align="center">A passionate developer from India<p> 
  <br>
  
+<img align="center" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/horizontal-banner-hands-typing-laptop-keyboard-various-electronic-devices-symbols-programming-software-horizontal-125917922.jpg" width="2000" height = "300">
+ 
 ## 🤵 About Me:
  
 - 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.
@@ -10,7 +12,7 @@
 - 💬 Ask me about Cricket, Football and Gaming.
 - ⚡ I am a Machine Learning enthusiast.  
 
-<img align="bottom" alt="GIF" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/ColorlessBitesizedKob-max-1mb.gif" width="378" height="253" />
+<img align="right" alt="GIF" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/ColorlessBitesizedKob-max-1mb.gif" width="378" height="253" />
 
 <br>
 <p align="center">
