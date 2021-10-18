@@ -1,9 +1,18 @@
-## Hello, I am Atig !!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+#  <p align="center">Hi , I'm Atig! :space_invader:<p> 
+###   <p align="center">A passionate developer from India<p> 
+ <br>
+ 
+## 🤵 About Me:
+ 
+- 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.
+- 💻 I use daily **.java**, **.cpp** & **.py**.
+- 🌱 I am currently learning basics of **Computer Vision** and **Natural Language Processing**.
+- 💬 Ask me about Cricket, Football and Gaming.
+- ⚡ I am a Machine Learning enthusiast.  
 
+<img align="bottom" alt="GIF" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/ColorlessBitesizedKob-max-1mb.gif" width="378" height="253" />
 
-![Atig's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AtigPurohit&theme=react-dark&hide_border=true&area=true)
-
-## 📫 Reach me at:
+ ## 📫 Reach me at:
 
 <table>
   <tr>
@@ -16,29 +25,24 @@
   </a>&nbsp;&nbsp;
 </table>
 
-## 🤵 About Me:
- 
-- 🏦 I'm currently pursuing B.Tech. in CSE from Kalinga Institute of Industrial Technology.
-- 💻 I use daily **.java**, **.cpp** & **.py**.
-- 🌱 I am currently learning basics of **Machine Learning** and **Android Development**.
-- 💬 Ask me about Cricket, Football and Gaming.
-- ⚡ Fun fact: The Mona Lisa has no eyebrows.  
-
-<img align="bottom" alt="GIF" src="https://github.com/AtigPurohit/AtigPurohit/blob/main/ColorlessBitesizedKob-max-1mb.gif" width="378" height="253" />
-
-
 ## 🐱My Github stats:
 
-<a href="https://github.com/AtigPurohit">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AtigPurohit&show_icons=true&theme=dark&line_height=27&title_color=2EDDD5&bg_color=000000&hide_border=1" alt="Atig's github stats"/>
+<p align="center">
+<a href="https://github.com/AtigProhit">
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AtigPurohit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/> 
+ <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AtigPurohit&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </a>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AtigPurohit&theme=great-gatsby&hide_border=true&sideNums=2EDDD5&background=000000&ring=1CC6DD&border=DD2727&currStreakNum=2ACBDD)
+<p align="center">
+ <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=AtigPurohit&theme=blux&hide_border=true"/> 
+</p>
+ <br>
+ 
+ [![Atig's github activity graph](https://activity-graph.herokuapp.com/graph?username=AtigPurohit&theme=react-dark&hide_border=true&area=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtigPurohit&layout=compact&text_color=daf7dc&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+<br>
 
-<div align="center">
-  
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
